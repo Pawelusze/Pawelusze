@@ -6,8 +6,10 @@
 <samp>
 I'm <b>13</b>, mostly <b>learning Java</b> and building <b>Minecraft plugins</b>.
 Fascinated by server security (-) anti-cheats, <b>packet inspection</b>, and hardening systems. 
+  
 Learning fast. <b>Shipping anyway.</b> 😙
 </samp>
+
 
 > **UNCONVENTIONAL SOLUTIONS** ❤️
 > I don't really care about "standard" if it's too limiting. I'd rather dive into packets and NMS to find a way around. If there's a loophole, I'll find it. 🫠
