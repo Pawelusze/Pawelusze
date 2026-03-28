@@ -1,24 +1,23 @@
 # <p align="left">Kowalski.<span style="color: #d4af37;">__</span></p>
 
-<samp>13 Y/O &nbsp; · &nbsp; STUDENT &nbsp; · &nbsp; BYDGOSZCZ, PL</samp>
+<samp>13 Y/O &nbsp; · &nbsp; ETERNALCODETEAM STUDENT &nbsp; · &nbsp; BYDGOSZCZ, PL</samp>
 
 ---
 
-### :wave: Hey! Paweł Malanich (Kowalski)
-
+### Profile
 <samp>
-I'm <b>13</b> and I spend most of my time <b>learning Java</b> and building <b>Minecraft plugins</b>.
-Fascinated by server security — anti-cheats, <b>packet inspection</b>, and systems.
+I'm <b>13</b>, mostly <b>learning Java</b> and building <b>Minecraft plugins</b>.
+Fascinated by server security (-) anti-cheats, <b>packet inspection</b>, and hardening systems. 
+Learning fast. <b>Shipping anyway.</b>
 </samp>
 
-> [!IMPORTANT]
 > **UNCONVENTIONAL SOLUTIONS**
-> Bardzo mocno kręcą mnie niestandardowe rozwiązania. Jeśli standardowe API ogranicza, wchodzę głębiej w pakiety i NMS. Szukam nieszablonowych dróg tam, gdzie inni widzą ścianę.
+> I don't really care about "standard" if it's too limiting. I'd rather dive into packets and NMS to find a way around. If there's a loophole, I'll find it.
 
-- :office: &nbsp; Part of **EternalCodeTeam** — open-source Minecraft plugins
-- :seedling: &nbsp; Currently working on **packet-level anti-cheats**
-- :speech_balloon: &nbsp; I like to talk about **Security**, **Reverse Engineering** and **Java**
-- :computer: &nbsp; Discord: `pawelusz._.`
+- Part of **EternalCodeTeam** — open-source development team
+- Currently messing with **packet-level anti-cheats**
+- Into **Security** and **Java Internals**
+- Discord: `pawelusz._.`
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pawelusze&color=d4af37" alt="page views" />
@@ -27,18 +26,24 @@ Fascinated by server security — anti-cheats, <b>packet inspection</b>, and sys
 
 ---
 
-### BUILDING
+### Building
 <samp>
-— <b>cloudbase</b> · per-player sphere system, <b>Folia + RocksDB</b>
-— <b>KryptonKiller / LOSGate</b> · server-side anti-cheat, <i>packet-level detection</i>
-— <b>Fabric mods</b> · <i>ESP, render utils, NMS reverse engineering</i>
-— <b>security tooling</b> · for chat &amp; server protection systems
+— <b>cloudbase</b> · storing bases, farms, and redstone mechanics in database <b>Folia + RocksDB</b> :0
+— <b>simple-{plugin-name}</b> · lightweight plugins focused on essentials, <b>zero bloat</b> (e.g., simple-rtp)
 </samp>
 
 ---
 
-### TECH STACK
-`Java` `PaperMC` `Folia` `Fabric` `PacketEvents` `RocksDB` `LiteCommands` `Okaeri Configs` `Gradle` `IntelliJ IDEA`
+### Tech Stack
+
+**Languages**
+`Java`
+
+**APIs & Frameworks**
+`PaperMC` `PacketEvents` `LiteCommands` `Okaeri Configs` `RocksDB`
+
+**Tools**
+`Gradle & Maven` `IntelliJ IDEA` `Git`
 
 <br>
 
