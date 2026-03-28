@@ -2,8 +2,6 @@
 
 <samp>13 Y/O &nbsp; · &nbsp; ETERNALCODETEAM STUDENT &nbsp; · &nbsp; BYDGOSZCZ, PL</samp>
 
----
-
 ### Profile
 <samp>
 I'm <b>13</b>, mostly <b>learning Java</b> and building <b>Minecraft plugins</b>.
@@ -24,15 +22,11 @@ Learning fast. <b>Shipping anyway.</b>
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/pawelusze?style=flat&logo=github&color=222">
 </p>
 
----
-
 ### Building
 <samp>
 — <b>cloudbase</b> · storing bases, farms, and redstone mechanics in database <b>Folia + RocksDB</b> :0
 — <b>simple-{plugin-name}</b> · lightweight plugins focused on essentials, <b>zero bloat</b> (e.g., simple-rtp)
 </samp>
-
----
 
 ### Tech Stack
 
@@ -48,7 +42,7 @@ Learning fast. <b>Shipping anyway.</b>
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MacroPower/github-stats-transparent/output/generated/overview.svg" width="450" />
+  <img src="https://raw.githubusercontent.com/Pawelusze/github-stats-transparent/output/generated/overview.svg" width="450" />
 </div>
 
 <p align="right">
